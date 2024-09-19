@@ -21,4 +21,14 @@ body {
     font-family: 'Montserrat', sans-serif;
     color: #dc4661;
   }
+
+  p {
+    font-family: 'Montserrat', sans-serif;
+    color: #4e4e4e;
+    line-height: 1.6;
+  }
   
+  a {
+    font-family: 'Montserrat', sans-serif;
+    color: #dc4661;
+  }
