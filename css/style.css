@@ -3,7 +3,7 @@ body {
     background-color: #f6d6a7;
     margin: 0;
   }
-  
+
   header img {
     width: 100%;
     height: auto;
@@ -37,6 +37,7 @@ body {
     padding: 20px;
     width: 250px;
     border-radius: 15px;
+    margin-left: 50px;
   }
   
   a {
