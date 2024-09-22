@@ -3,6 +3,21 @@ body {
     background-color: #f6d6a7;
     margin: 0;
   }
+  nav {
+    background-color: #dc4661;
+    padding: 10px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+  }
+  
+  nav a:hover {
+    background-color: #dc4661;
+  }
 
   header img {
     width: 100%;
